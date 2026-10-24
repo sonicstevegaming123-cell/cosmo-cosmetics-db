@@ -1,0 +1,3 @@
+cosmocosmetics-db 1
+gold-crown=437c53322b2c
+shiny-crown=054cb24093b0
