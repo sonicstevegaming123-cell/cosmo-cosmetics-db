@@ -1,0 +1,3 @@
+# Settings for this cosmetic. Only "name" is needed for a static one.
+name=Gold Crown
+animated=false

@@ -1,0 +1,8 @@
+# Animated: the png holds all frames stacked vertically (64x192 = 3 frames of 64x64).
+name=Shiny Crown
+animated=true
+frames=3
+# animation speed in frames per second
+fps=6
+# seconds of rest between the end of the animation and the next start
+delay=1.5
